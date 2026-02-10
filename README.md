@@ -19,6 +19,10 @@ HTML / CSS / JavaScript を使った個人開発を行っています。
 個人事業主の方や個人経営の方向けに、Webの導線を見直すきっかけを作るようなLPを作りました。
 https://taxintian-cloud.github.io/lp-project/
 
+### 個人事業主向けシンプルLP - 無料相談フォーム
+前述のLP付随する、無料相談診断フォームを制作しました。
+https://taxintian-cloud.github.io/lp-diagnosis/
+
 ### Deep Sea Chat
 深海の海神と対話するチャットアプリ です。
 https://taxintian-cloud.github.io/Deep--Sea-Chat/
