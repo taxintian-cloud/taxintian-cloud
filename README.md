@@ -15,6 +15,12 @@ HTML / CSS / JavaScript を使った個人開発を行っています。
 
 ## 🌊 Works
 
+### DeepSeaToDo V2 -Abyss Build
+深海をテーマい↓Todoアプリの改良版です。
+カテゴリ管理、期限表示、残り日数表示、メモ機能などを実装し、使いやすさと視認性を意識して
+改善を重ねたプロトタイプです。
+https://taxintian-cloud.github.io/DeepSeaToDo-V2-Abyss-Build/
+
 ### 個人事業主向けシンプルLP
 個人事業主の方や個人経営の方向けに、Webの導線を見直すきっかけを作るようなLPを作りました。
 https://taxintian-cloud.github.io/lp-project/
