@@ -113,7 +113,7 @@ https://taxintian-cloud.github.io/Deep-Sea-ToDo/
  ## Contact
 
 Webサイトの修正・UI改善などのご相談も可能です。
-お気軽にココナラよりご連絡ください。
+「これお願いできる？」という段階でも大丈夫ですので、お気軽にココナラよりご連絡ください。
 
 
 
