@@ -1,7 +1,9 @@
 # taxintian-cloud
 
-HTML / CSS / JavaScript を使った個人開発を行っています。  
-雰囲気・体験・世界観を大切にしたUI制作が得意です。
+UI/UXを意識したWebサイトの改善・修正を得意としています。
+
+「迷わず使える」「自然に行動できる」設計を重視し、
+使いやすさと見やすさを両立したUI改善を行っています。
 
 ---
 
@@ -14,7 +16,9 @@ HTML / CSS / JavaScript を使った個人開発を行っています。
 ---
 
 ## 🌊 Works
-### 人生クエスト　V1-V2
+### 人生クエスト　V5
+→ UI/UXを重視した体験設計型タスク管理アプリ
+
 日々の行動を「経験値」として可視化し、継続を習慣化するためのWebアプリです。
 
 小さな行動でも経験値として蓄積され、レベルアップという形で成果が見えることで、
@@ -29,36 +33,52 @@ HTML / CSS / JavaScript を使った個人開発を行っています。
 https://taxintian-cloud.github.io/Jinsei-Quest-V1andV2/
 
 ### DeepSeaToDo V2 -Abyss Build
+→ 視認性と没入感を重視したUI改善型Todoアプリ
+
 深海をテーマにしたTodoアプリの改良版です。
 カテゴリ管理、期限表示、残り日数表示、メモ機能などを実装し、使いやすさと視認性を意識して
 改善を重ねたプロトタイプです。
 https://taxintian-cloud.github.io/DeepSeaToDo-V2-Abyss-Build/
 
 ### 個人事業主向けシンプルLP
+→ 行動導線を意識したシンプルな集客LP
+
 個人事業主の方や個人経営の方向けに、Webの導線を見直すきっかけを作るようなLPを作りました。
 https://taxintian-cloud.github.io/lp-project/
 
 ### 個人事業主向けシンプルLP - 無料相談フォーム
+→ ユーザーの行動を促す診断型フォーム設計
+
 前述のLP付随する、無料相談診断フォームを制作しました。
 https://taxintian-cloud.github.io/lp-diagnosis/
 
 ### Deep Sea Chat
+→ 世界観と没入感を重視した対話型UIアプリ
+
 深海の海神と対話するチャットアプリ です。
 https://taxintian-cloud.github.io/Deep--Sea-Chat/
 
 ### Mini Game Center  
+→ JavaScriptで実装したミニゲーム集（ロジック重視）
+
 じゃんけん、サイコロダイス、スロットマシーンを作りました。
 https://taxintian-cloud.github.io/min-gamecenter/
 
 ### Cafe Polaris  
+→ 雰囲気と視覚体験を重視したカフェ風Webサイト
+
 擬似的にカフェのHPをモチーフとして作りました。
 https://taxintian-cloud.github.io/cafe_polaris/
 
 ### Modern Coding Academy  
+→ 学習導線を意識した構成設計型LP
+
 擬似的なLPを作りました。
 https://taxintian-cloud.github.io/modern-coding-academy/
 
 ### Deep Sea ToDo  
+→ シンプルさと使いやすさを重視したTodoアプリ
+
 簡単に使えるようなToDoリストをテーマに作りました。
 https://taxintian-cloud.github.io/Deep-Sea-ToDo/
 
@@ -88,8 +108,10 @@ https://taxintian-cloud.github.io/Deep-Sea-ToDo/
  
   - 現在は、制作した作品をベースに収益化・実案件につなげることを目標に活動しています。
  
-  - ## Contact
-お仕事のご相談はココナラよりお願いいたします。
+ ## Contact
+
+Webサイトの修正・UI改善などのご相談も可能です。
+お気軽にココナラよりご連絡ください。
 
 
 
